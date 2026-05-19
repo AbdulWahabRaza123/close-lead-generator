@@ -1,0 +1,42 @@
+# --- Secrets (never commit) ---
+.env
+.env.local
+.env.*.local
+
+# --- Python ---
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+
+# --- VS Code (Cursor is VS Code–based; keep local settings out of repo) ---
+.vscode/
+*.code-workspace
+
+# --- Other IDEs / editors ---
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Local run artifacts (regenerated each run) ---
+logs/*.log
+output/import_manifest.json
+output/reconciliation.csv
+# Keep output/report.csv if you want a sample in the repo; uncomment next line to ignore all reports:
+# output/report.csv
+
+# --- Test run artifacts ---
+tests/output/
+testfiles/

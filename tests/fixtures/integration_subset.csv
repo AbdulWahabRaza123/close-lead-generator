@@ -1,0 +1,5 @@
+Company,Contact Name,Contact Emails,Contact Phones,custom.Company Founded,custom.Company Revenue,Company US State
+ZzzTest_Acme,Jane Tester,jane.zzztest@example.com,+1-555-010-0001,15.03.1976,$500000.00,California
+ZzzTest_Acme,John Tester,john.zzztest@example.com,+1-555-010-0002,15.03.1976,$500000.00,California
+ZzzTest_Beta Corp,Beta User,beta.zzztest@example.com,+1-555-020-0001,01.06.1985,$1200000.50,New York
+ZzzTest_Gamma LLC,,,+1-555-030-0001,10.10.1990,$750000.00,Delaware
