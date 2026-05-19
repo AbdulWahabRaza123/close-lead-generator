@@ -19,7 +19,6 @@ Built for the Close Software Engineer Support take-home; structured for local CL
 9. [Troubleshooting](#troubleshooting)
 10. [Testing](#testing)
 11. [Future: Multi-user API service](#future-multi-user-api-service)
-12. [Submission (Part 2)](#submission-part-2)
 
 ---
 
@@ -549,16 +548,6 @@ redis>=5.0.0               # optional broker
 ```
 
 Keep the CLI (`main.py`) as-is; the API layer calls the same functions.
-
----
-
-## Submission (Part 2)
-
-1. Push to a **private** GitHub repository.
-2. Record a **5–10 minute Loom** — see [LOOM_OUTLINE.md](LOOM_OUTLINE.md).
-3. Email **katie.kemp@close.com** and **joseph@close.com** with repo access and Loom link.
-
-See [REQUIREMENTS_CHECKLIST.md](REQUIREMENTS_CHECKLIST.md) for spec mapping.
 
 ---
 
